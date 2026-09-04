@@ -1,0 +1,3 @@
+Patrón: Factory Method (Creacional)
+Clase/Interfaz: org.springframework.beans.factory.BeanFactory
+Descripción: Interfaz raíz que define el contenedor IoC. Sus métodos getBean() actúan como factorías para instanciar y gestionar el ciclo de vida de los beans.

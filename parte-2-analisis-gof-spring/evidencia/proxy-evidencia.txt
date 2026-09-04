@@ -1,0 +1,3 @@
+Patrón: Proxy (Estructural)
+Clase/Interfaz: org.springframework.aop.framework.JdkDynamicAopProxy
+Descripción: Clase encargada de generar dinámicamente proxies basados en interfaces para aplicar funcionalidad transversal (transacciones, seguridad) mediante Spring AOP.
